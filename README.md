@@ -1,3 +1,4 @@
 # Unity Tutorials
-A repo for Unity tutorials that I am working through. See the individual 
-branches for the tutorial work and links to the tutorials.
+## Catlike Coding - Clock
+This tutorial is from the Catlike Coding website by Jasper Flick and is called
+[Clock](http://catlikecoding.com/unity/tutorials/clock/).
